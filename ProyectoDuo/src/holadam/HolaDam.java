@@ -15,8 +15,7 @@ public class HolaDam {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-                System.out.println("ESTA ES LA NUEVA "
-                + "MODIFICACION QUE SE VA A SUBIR A REMOTO");
+                System.out.println("Esta es la modificacion hecha por el segundo desarrollador");
     }
     
 }
